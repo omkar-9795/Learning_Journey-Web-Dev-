@@ -1,3 +1,3 @@
 # Learning Journey
 
-This is the whole journey or learning web devlopment
+This is the whole journey of learning web devlopment
