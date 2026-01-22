@@ -1,0 +1,55 @@
+/* Done by me -: */
+/* div {
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+    padding: 15px 0px 0px 15px;
+
+}
+
+div div {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50%;;
+    padding: 0px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+div div + div {
+    background-color: yellow;
+}
+
+div div + div + div {
+    background-color: green;
+} */
+
+/* Done by ma'am */
+div {
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}
+
+div div {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 10px;
+
+
+}
+
+div > div {
+    background-color: red;
+}
+
+div > div + div{
+    background-color: yellow;
+}
+
+div > div + div + div{
+    background-color: green;
+} 
